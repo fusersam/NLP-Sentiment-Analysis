@@ -1,3 +1,16 @@
+---
+title: Sentimental Analysis  # Replace with your app's title
+emoji: 🧠  # Pick an emoji that represents your app
+colorFrom: purple  # Starting color for the app gradient
+colorTo: pink  # Ending color for the app gradient
+sdk: gradio  # Use 'gradio' if you're deploying a Gradio app
+sdk_version: "3.50.2"  # Replace with the Gradio version you're using
+app_file: app.py  # Entry point of your app (e.g., 'app.py')
+pinned: false  # Set to 'true' if you want the space to be pinned
+---
+
+# Sentimental Analysis
+This app predicts sentiment analysis for provided text input using a pre-trained model.
 
 
 # Harnessing the Power of Sentiment Analysis: An Exploration with Pre-Trained Models and Gradio App
